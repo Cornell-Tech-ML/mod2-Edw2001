@@ -23,7 +23,7 @@ The files that will be synced are:
 
 ## Dataset: Simple
 
-### Parameter: 
+### Parameter:
 - Number of points: 50
 - hidden: 2
 - Learning rate: 0.1
@@ -40,7 +40,7 @@ The files that will be synced are:
 
 ## Dataset: Diag
 
-### Parameter: 
+### Parameter:
 - Number of points: 80
 - hidden: 3
 - Learning rate: 0.1
@@ -57,7 +57,7 @@ The files that will be synced are:
 
 ## Dataset: Split
 
-### Parameter: 
+### Parameter:
 - Number of points: 50
 - hidden: 5
 - Learning rate: 0.1
@@ -74,7 +74,7 @@ The files that will be synced are:
 
 ## Dataset: Xor
 
-### Parameter: 
+### Parameter:
 - Number of points: 50
 - hidden: 8
 - Learning rate: 0.1
